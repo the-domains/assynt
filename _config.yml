@@ -1,0 +1,14 @@
+layout_spectrum: 0.36003480618819594
+typography_spectrum: 0.4385839581955224
+color:
+  brandStrength: 0.7572855886537582
+  lightness: 0.8509675534442067
+  saturation: 0.15068848198279738
+  rhythmicContrast: 0.0042879898101091385
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: Assynt
