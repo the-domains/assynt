@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Assynt]]></title>
+        <description><![CDATA[Assynt]]></description>
+        <link>https://thegrid.ai/assynt/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Aug 2016 15:13:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/assynt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/189937a4-5cd5-4122-9a29-4d6c5ba2520c.jpg">]]></description>
+            <link>https://thegrid.ai/assynt/b8f5e0b2-a0ed-441d-b630-931393eb7665/index.html</link>
+            <guid isPermaLink="false">b8f5e0b2-a0ed-441d-b630-931393eb7665</guid>
+            <pubDate>Fri, 26 Aug 2016 14:31:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd81e02b-f02b-4829-b022-6a6942535474.jpg">]]></description>
+            <link>https://thegrid.ai/assynt/7eacc85f-c2f5-4c98-99a0-f1ecb714cc7c/index.html</link>
+            <guid isPermaLink="false">7eacc85f-c2f5-4c98-99a0-f1ecb714cc7c</guid>
+            <pubDate>Fri, 26 Aug 2016 14:17:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/860f3ae8-d644-423c-824e-04c966ea1744.jpg">]]></description>
+            <link>https://thegrid.ai/assynt/96110f2e-692f-411a-b9ad-b1530e1002be/index.html</link>
+            <guid isPermaLink="false">96110f2e-692f-411a-b9ad-b1530e1002be</guid>
+            <pubDate>Fri, 26 Aug 2016 13:38:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
