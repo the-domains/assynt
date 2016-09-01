@@ -12,3 +12,7 @@ color:
     - '#01B0F0'
     - '#AEEE00'
 name: Assynt
+navigation:
+  - name: Tulips
+    id: e318d866-29a7-4c30-9695-1b9ce755c932
+    type: content
