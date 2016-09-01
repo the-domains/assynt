@@ -12,7 +12,3 @@ color:
     - '#01B0F0'
     - '#AEEE00'
 name: Assynt
-navigation:
-  - name: Green and Purple
-    id: b8f5e0b2-a0ed-441d-b630-931393eb7665
-    type: content
