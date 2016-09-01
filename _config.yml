@@ -13,9 +13,6 @@ color:
     - '#AEEE00'
 name: Assynt
 navigation:
-  - name: Furry Tulips
-    id: 96110f2e-692f-411a-b9ad-b1530e1002be
-    type: content
   - name: Green and Purple
     id: b8f5e0b2-a0ed-441d-b630-931393eb7665
     type: content
