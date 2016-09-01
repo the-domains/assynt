@@ -1,30 +1,18 @@
+layout_spectrum: 0.36003480618819594
+typography_spectrum: 0.4385839581955224
 color:
-  saturation: 0.1506884819827974
   brandStrength: 0.7572855886537582
-  rhythmicContrast: 0.004287989810109138
+  lightness: 0.8509675534442067
+  saturation: 0.15068848198279738
+  rhythmicContrast: 0.0042879898101091385
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-  lightness: 0.8509675534442067
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+name: Assynt
 navigation:
-  - name: Tulips
-    id: 407400cf-ba0e-44ca-a116-4db72d0371bd
-    type: content
   - name: Flowers
     id: 7eacc85f-c2f5-4c98-99a0-f1ecb714cc7c
     type: content
@@ -34,6 +22,3 @@ navigation:
   - name: Green and Purple
     id: b8f5e0b2-a0ed-441d-b630-931393eb7665
     type: content
-layout_spectrum: 0.3600348061881959
-typography_spectrum: 0.4385839581955224
-name: Assynt
