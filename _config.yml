@@ -12,7 +12,3 @@ color:
     - '#01B0F0'
     - '#AEEE00'
 name: Assynt
-navigation:
-  - name: Something Else
-    id: d9c4a0d6-9372-4cb7-8cd1-cbc147236af2
-    type: content
