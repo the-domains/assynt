@@ -19,3 +19,6 @@ navigation:
   - name: More Tulips
     id: a51abd4f-4340-4cda-a331-5696688194e9
     type: content
+  - name: Something Else
+    id: d9c4a0d6-9372-4cb7-8cd1-cbc147236af2
+    type: content
