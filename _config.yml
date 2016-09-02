@@ -19,3 +19,6 @@ navigation:
   - name: Edinburgh Botanics
     url: 'http://rgbe.org.uk'
     type: external
+  - name: Scottish Gardens
+    url: 'http://scotlandsgardens.org'
+    type: external
