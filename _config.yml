@@ -22,3 +22,6 @@ navigation:
   - name: Scottish Gardens
     url: 'http://scotlandsgardens.org'
     type: external
+  - name: Frilly Tulips
+    id: e318d866-29a7-4c30-9695-1b9ce755c932
+    type: content
