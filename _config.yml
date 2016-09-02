@@ -25,3 +25,6 @@ navigation:
   - name: Frilly Tulips
     id: e318d866-29a7-4c30-9695-1b9ce755c932
     type: content
+  - name: Mrs Ogilvey's Tulips
+    id: a51abd4f-4340-4cda-a331-5696688194e9
+    type: content
