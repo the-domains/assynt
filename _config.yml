@@ -12,3 +12,7 @@ color:
     - '#01B0F0'
     - '#AEEE00'
 name: Assynt
+navigation:
+  - name: RHS
+    url: 'http://rhs.org.uk'
+    type: external
