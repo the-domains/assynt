@@ -1,30 +1,49 @@
-layout_spectrum: 0.36003480618819594
-typography_spectrum: 0.4385839581955224
+name: Assynt
+analytics: {}
+github: true
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+navigation:
+  - type: external
+    name: RHS
+    url: 'http://rhs.org.uk'
+  - type: external
+    name: Edinburgh Botanics
+    url: 'http://rgbe.org.uk'
+  - type: external
+    name: Scottish Gardens
+    url: 'http://scotlandsgardens.org'
+  - id: e318d866-29a7-4c30-9695-1b9ce755c932
+    name: Frilly Tulips
+    type: content
+  - id: a51abd4f-4340-4cda-a331-5696688194e9
+    name: Mrs Ogilvey's Tulips
+    type: content
+layout_spectrum: 0.3600348061881959
 color:
-  brandStrength: 0.7572855886537582
   lightness: 0.8509675534442067
-  saturation: 0.15068848198279738
-  rhythmicContrast: 0.0042879898101091385
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-name: Assynt
-navigation:
-  - name: RHS
-    url: 'http://rhs.org.uk'
-    type: external
-  - name: Edinburgh Botanics
-    url: 'http://rgbe.org.uk'
-    type: external
-  - name: Scottish Gardens
-    url: 'http://scotlandsgardens.org'
-    type: external
-  - name: Frilly Tulips
-    id: e318d866-29a7-4c30-9695-1b9ce755c932
-    type: content
-  - name: Mrs Ogilvey's Tulips
-    id: a51abd4f-4340-4cda-a331-5696688194e9
-    type: content
+  saturation: 0.1506884819827974
+  brandStrength: 0.7572855886537582
+  rhythmicContrast: 0.004287989810109138
+content_rating:
+  adult: false
+typography_spectrum: 0.4385839581955224
+opengraph: {}
