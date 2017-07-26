@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Assynt]]></title>
+        <description><![CDATA[Assynt]]></description>
+        <link>https://thegrid.ai/assynt/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 26 Jul 2017 14:57:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/assynt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Assynt - a truly magical place]]></title>
+            <description><![CDATA[<h1>Assynt - a truly magical place</h1>,<p>Thank you George Mackay Brown</p>]]></description>
+            <link>https://thegrid.ai/assynt/assynt-a-truly-magical-place/index.html</link>
+            <guid isPermaLink="false">8f629304-3d26-4ba8-a04a-cec423ebc6e7</guid>
+            <pubDate>Wed, 26 Jul 2017 14:57:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
